@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="KoakhLaravelTaskScheduling">
+    <serverData>
+      <paths name="KoakhLaravelTaskScheduling">
+        <serverdata>
+          <mappings>
+            <mapping deploy="\" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="KoakhServer">
+        <serverdata>
+          <mappings>
+            <mapping deploy="\" local="V:/koakh.com/subdomains/dev/httpdocs/frameworks/laravel/taskscheduling" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="Server">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
