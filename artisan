@@ -1,6 +1,16 @@
 #!/usr/bin/env php
 <?php
 
+if (isset($argv[1]) && $argv[1] === '-V') {
+    die('Symfony version 2.7.8');
+}
+
+if( isset($argv[1]) && $argv[1] == 'list' && 
+    isset($argv[2]) && $argv[2] == '--xml' ) {
+    $argv[2] = '--format=xml';
+    $_SERVER['argv'] = $argv;
+}
+
 /*
 |--------------------------------------------------------------------------
 | Register The Auto Loader
