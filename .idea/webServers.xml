@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="6503f9be-9d00-4c7a-8af8-1f121de85e5e" name="KoakhLaravelTaskScheduling" url="http://dev.koakh.com/frameworks/laravel/taskscheduling/">
+        <fileTransfer mountedRoot="V:\koakh.com\subdomains\dev\httpdocs\frameworks\laravel\taskscheduling" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>

@@ -12,7 +12,6 @@
       <sourceFolder url="file://$MODULE_DIR$/vendor/symfony/class-loader/Tests/Fixtures/Apc/fallback" isTestSource="false" packagePrefix="Apc" />
       <sourceFolder url="file://$MODULE_DIR$/vendor/symfony/class-loader/Tests/Fixtures/Apc/alpha" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/vendor/symfony/class-loader/Tests/Fixtures/Apc/beta" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/vendor/jeremeamia/SuperClosure/src" isTestSource="false" packagePrefix="SuperClosure" />
       <sourceFolder url="file://$MODULE_DIR$/vendor/phpspec/prophecy/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/vendor/nesbot/carbon/src" isTestSource="false" />
